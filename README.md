@@ -48,7 +48,7 @@ pandas>=1.3.0
 
 ## Links
 - **Kaggle Notebook:** https://www.kaggle.com/code/berfintavan/deep-learning-project-brain-tumor-mri-data-set-cnn/edit
-- **GitHub Repository:** [Insert GitHub Link Here]
+- **GitHub Repository:** https://github.com/berffin/brain-tumor-classification
 
 ---
 **Akbank Deep Learning Bootcamp - September 2025**
