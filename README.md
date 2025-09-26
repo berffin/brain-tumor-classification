@@ -47,7 +47,7 @@ pandas>=1.3.0
 3. Open and run the Jupyter notebook
 
 ## Links
-- **Kaggle Notebook:** [Insert Kaggle Link Here]
+- **Kaggle Notebook:** https://www.kaggle.com/code/berfintavan/deep-learning-project-brain-tumor-mri-data-set-cnn/edit
 - **GitHub Repository:** [Insert GitHub Link Here]
 
 ---
